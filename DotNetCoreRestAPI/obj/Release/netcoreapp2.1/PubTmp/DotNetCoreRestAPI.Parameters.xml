@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="IIS Web Application Name" description="" value="RestNetCoreSample" tags="IisApp">
+    <parameterEntry kind="ProviderPath" scope="IisApp" match="^E:\\Let's\ Make\ It\ Possible\ -\ Let's\ Do\ This\\Udemy\\Rest\ API\ in\ ASP\.Net\ Core\ C\#\\Code\\DotNetCoreRestAPI\\obj\\Release\\netcoreapp2\.1\\PubTmp\\Out\\$" />
+  </parameter>
+</parameters>

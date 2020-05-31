@@ -1,0 +1,14 @@
+E:\Let's Make It Possible - Let's Do This\Udemy\Rest API in ASP.Net Core C#\Code\DotNetCoreRestAPI\bin\Release\netcoreapp2.1\DotNetCoreRestAPI.deps.json
+E:\Let's Make It Possible - Let's Do This\Udemy\Rest API in ASP.Net Core C#\Code\DotNetCoreRestAPI\bin\Release\netcoreapp2.1\DotNetCoreRestAPI.runtimeconfig.json
+E:\Let's Make It Possible - Let's Do This\Udemy\Rest API in ASP.Net Core C#\Code\DotNetCoreRestAPI\bin\Release\netcoreapp2.1\DotNetCoreRestAPI.runtimeconfig.dev.json
+E:\Let's Make It Possible - Let's Do This\Udemy\Rest API in ASP.Net Core C#\Code\DotNetCoreRestAPI\bin\Release\netcoreapp2.1\DotNetCoreRestAPI.dll
+E:\Let's Make It Possible - Let's Do This\Udemy\Rest API in ASP.Net Core C#\Code\DotNetCoreRestAPI\bin\Release\netcoreapp2.1\DotNetCoreRestAPI.pdb
+E:\Let's Make It Possible - Let's Do This\Udemy\Rest API in ASP.Net Core C#\Code\DotNetCoreRestAPI\obj\Release\netcoreapp2.1\DotNetCoreRestAPI.csprojAssemblyReference.cache
+E:\Let's Make It Possible - Let's Do This\Udemy\Rest API in ASP.Net Core C#\Code\DotNetCoreRestAPI\obj\Release\netcoreapp2.1\DotNetCoreRestAPI.csproj.CoreCompileInputs.cache
+E:\Let's Make It Possible - Let's Do This\Udemy\Rest API in ASP.Net Core C#\Code\DotNetCoreRestAPI\obj\Release\netcoreapp2.1\DotNetCoreRestAPI.RazorAssemblyInfo.cache
+E:\Let's Make It Possible - Let's Do This\Udemy\Rest API in ASP.Net Core C#\Code\DotNetCoreRestAPI\obj\Release\netcoreapp2.1\DotNetCoreRestAPI.RazorAssemblyInfo.cs
+E:\Let's Make It Possible - Let's Do This\Udemy\Rest API in ASP.Net Core C#\Code\DotNetCoreRestAPI\obj\Release\netcoreapp2.1\DotNetCoreRestAPI.AssemblyInfoInputs.cache
+E:\Let's Make It Possible - Let's Do This\Udemy\Rest API in ASP.Net Core C#\Code\DotNetCoreRestAPI\obj\Release\netcoreapp2.1\DotNetCoreRestAPI.AssemblyInfo.cs
+E:\Let's Make It Possible - Let's Do This\Udemy\Rest API in ASP.Net Core C#\Code\DotNetCoreRestAPI\obj\Release\netcoreapp2.1\DotNetCoreRestAPI.RazorTargetAssemblyInfo.cache
+E:\Let's Make It Possible - Let's Do This\Udemy\Rest API in ASP.Net Core C#\Code\DotNetCoreRestAPI\obj\Release\netcoreapp2.1\DotNetCoreRestAPI.dll
+E:\Let's Make It Possible - Let's Do This\Udemy\Rest API in ASP.Net Core C#\Code\DotNetCoreRestAPI\obj\Release\netcoreapp2.1\DotNetCoreRestAPI.pdb
